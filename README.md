@@ -1,7 +1,7 @@
 ## 未来无线 GO SDK
 
 * 下载安装SDK
-  `go get github.com/ZhengQingchen/go-sdk`
+  `go get github.com/wlwx/go-sdk`
 
 * 代码示例
 
@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ZhengQingchen/go-sdk/sms"
+	"github.com/wlwx/go-sdk/sms"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ZhengQingchen/go-sdk/sms"
+	"github.com/wlwx/go-sdk/sms"
 )
 
 func main() {
